@@ -1,0 +1,5 @@
+# Install necessary packages
+# yfinance  For fetching stock data from Yahoo Finance
+# matplotlib  For plotting graphs
+# sqlite3  For database operations
+

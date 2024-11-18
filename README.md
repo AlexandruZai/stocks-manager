@@ -1,4 +1,4 @@
-This is a stocks manager app created in Python.
+This is a stocks portfolio manager app created in Python.
 
 It provides the following functionalities:
  - Create a user.
